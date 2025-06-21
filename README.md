@@ -33,8 +33,8 @@ https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bolivia-tv-logo-92C4C6471A-seeklogo.com.png" group-title="General",BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UOF0FHNKGP8p--i0wbdxRSW4BrjSk-mTw&s" group-title="General",TYC sports 
-http://venuschiletv.lat:8880/bayron01000/wmguR9bh4sWE/167747
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9UOF0FHNKGP8p--i0wbdxRSW4BrjSk-mTw&s" group-title="General",Entel TV solo eventos 
+http://tvpremiund.ddns.me:2082/live/Pedroarias/87HTfMZaKw4q/81522.m3u8
 #EXTINF:-1 tvg-logo="https://f10.tv.bo/wp-content/uploads/2024/06/351466087_3521344231429745_2162507638893969516_n-1.jpg" group-title="General",F10
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",SKY SPORTS
@@ -48,7 +48,7 @@ http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/132284
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",Entel TV  SOLO EVENTOS
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/426744
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/delgh01629726648.png" group-title="General",CD N DEPORTES
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
+http://vipgerretger.top:8080/VIP0186169030544607/91690305446/280
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwgPRmFPEd0MTVow6Q8guSyjyOtrDa8MH-g&s" group-title="General",Disney junior HD
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/395908
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="General",Nick junior  HD
