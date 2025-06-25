@@ -125,10 +125,6 @@ http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/548099.mkv
 http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/148455
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.B7LgOtHbdvTf3biM1x3JCwAAAA?pid=ImgDet&w=159&h=238&c=7" group-title="General",El tren de los niños 
 http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/516001.mkv
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/01/272385.png" group-title="General",Cantinflas 24/7
-http://tvlatino.club:2082/live/Peyo07AC/GrATtEvCwfBa/551336.m3u8
-#EXTINF:-1 tvg-logo="https://queretarockmusic.com/wp-content/uploads/2024/11/Captura-de-pantalla-2024-11-02-a-las-12.49.22%E2%80%AFp.m.png" group-title="General",Minecraft 
-https://nzbqsm47bouspvb.sensornetinfosecdeck.shop/d7izxzkm5jvh/hls3/01/10310/q7k17nzrzn6o_n/index-v1-a1.txt
 #EXTINF:-1 tvg-logo="https://multicinestenerife.com/wp-content/uploads/2024/05/slider-mision-hostil.png" group-title="General",Misión hostil 
 http://mundo2.pro:80/movie/pe4700mary/Bm2N6Um9HH4p/a7135643-66fa-4946-a757-179740c7a0a6.mp4
 #EXTINF:-1 tvg-logo="https://josueralvarez.com/wp-content/uploads/2021/11/7p.jpg" group-title="General",7 PRISIONEROS
@@ -177,8 +173,6 @@ http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/426591.mp4
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/305947.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Nn8o61DOAFw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvPz8uILhxSMrBxbyiTrbdjwxGXw" group-title="General",INVICTO II  EL ÚLTIMO HOMBRE EN PIE (2006)
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/269200.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTioGg_UkniODp0bB-APllsJbVAY7DWyE9DiQ&s" group-title="General",INVICTO III REDENCIÓN (2010)
-https://galaxypro.online:2087/movie/AngeloCoronel13/637399HVTRqwe/682500.mp4
 #EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DE VUELTA A LA ACCIÓN (2025) 
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/424403.mp4
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/297/777/png-transparent-romance-film-logo-television-channel-romantic-love-miscellaneous-television.png" group-title="General",LA CLAVE DEL CORAZON
@@ -235,108 +229,12 @@ http://netlevel.online:8080/movie/ventas45R/JGPGV/593211.mkv
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/425336.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",CAPITÁN CARVER
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/259610.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",LA MÁSCARA DEL MASCARA 
-http://zuiowy.net:8080/movie/Pitufo0176/NdBibe0RFJ/86066.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",EL PRÓFUGO 
-http://zuiowy.net:8080/movie/Pitufo0176/NdBibe0RFJ/85836.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",IMPERIOS DEL EXTASIS (2025)
 http://goldfull.pro:8880/movie/JorgeYanez/Tw3C7VfwaQx6/426345.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Península (2024)
-http://zuiowy.net:8080/movie/Pitufo0176/NdBibe0RFJ/49122.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Quantum of solace (2028)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/16272.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",300 el origen de un imperio 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/5776.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Arma letal I
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/5695.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Arma letal 2
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/5696.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Arma letal 3
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/5697.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Arma letal 4
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/5698.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Campamento en el fin del mundo (2019)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/3790.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Contra cara (1997)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/5809.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El traficante (2019)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/3791.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Guardianes de alta mar (2026)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/6322.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El escuadrón de elite (2015)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/3811.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Fuera de la ley (2011)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/220.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Drones (2018)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/2105.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La momia (2017)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/480.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Abducción alienígena (2014)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/5390.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El marciano (2015) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/2095.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Contacto sangriento (1988)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/3637.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Corazón de león (1991)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/4061.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El beso del dragon (2001)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/3638.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El monje (2003)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/3641.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El poder del talismán (2003) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/3640.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El maestro de la confusión (2002)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/4388.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Mortal combat (2021)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/39847.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El único (2001) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/78377.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Masacre en nueva York (1995)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/78097.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Puños de la venganza (2018
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/48851.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",El jardinero (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81382.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Código letal (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81724.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Código Negro (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81735.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Blanca nieves (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81750.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Presencia (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81910.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Tiempo de guerra (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81911.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Nocturnal (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81909.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Rehén (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81804.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",A prueba (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81784.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Enfrentando La oscuridad (2025) 
 http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81783.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Enfrentando La oscuridad (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81783.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Estragos (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81865.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Desconectados 2 (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81728.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Criminales de lujo (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81726.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Gravedad cero (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81882.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Amenaza anónima (2025) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/81888.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Combate clandestino (2024) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/76739.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Damsel (2024) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/76810.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",La viuda negra (2025) 
 http://tvpremiund.ddns.me:2082/movie/MilagrosFonseca/2Z8DZ4cpQjBe/82008.mp4
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Kali Angel vengador (2024) 
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/77369.mkv
-#EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Carnada (2024)
-http://tvpremiund.ddns.me:2082/movie/Rodrigocif/Gte4tdFKrY5u/78882.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General", asesino 
 http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398610.mkv
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Duro de matar
@@ -349,3 +247,25 @@ http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398579.mkv
 http://venuschiletv.lat:8880/movie/bayron01000/wmguR9bh4sWE/438102.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Namidia 
 https://live-stream.iblups.com/video/29d1e82a114bcc6051c752fe15b31d2f863bf605.m3u8
+#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/06/first-shift-68373-poster-185x278.jpg" group-title="General",First Shift 2024 
+https://cdn-b4e9verlhstt86dx.orbitcache.com/engine/hls2-c/01/14718/zgvgb8z3tewg_,n,.urlset/index-v1-a1.m3u8?t=Ab2LbwrC9X0G5lGw1iKqlle6feHls5mAJwS2dK6mmlg&s=1750812188&e=14400&f=73590092&node=t+AsGec0tqyzimoTeyh//PLu+DKoSGpjzvcOJNJMnHA=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AfwIqD0QFkKYBHQao78INWcoPSn.jpg" group-title="General",Logan: Wolverine 2017
+https://cdn-k36lq9mwfsnekmyd.orbitcache.com/engine/hls2-c/01/14718/s1rfdyljxqpt_,n,.urlset/index-v1-a1.m3u8?t=Y6snQX_dvpfVWwupabYAlPkP_UvT-0PS2e9hPmI7n88&s=1750812441&e=14400&f=73590316&node=SZHSsRvkCzi+vj394EwIn1FNSsrLyGHN5gEj3UffCak=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aRnCzJL8spJkfoiuld78LKOabiD.jpg" group-title="General",Efecto paradoja 2024
+https://cdn-zozs0yofvurnsojd.orbitcache.com/engine/hls2-c/01/14718/lj19rvgaff7w_,n,.urlset/index-v1-a1.m3u8?t=BoxjQtCTb2r3LlFQQTm5um27IN4gNSwRTZ0Ix3-pwnQ&s=1750812542&e=14400&f=73590093&node=4VlVWhAmYngYlcARvmJAbCRyDIGR2OWIRuOGPr4lndE=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vmw1FhbRFPDjkXevrhX6scxGJQO.jpg" group-title="General",Todo un parto 2010 
+https://cdn-0f49rzor22huapc5.orbitcache.com/engine/hls2/01/14718/g1tjpfdn1g1x_,n,.urlset/index-v1-a1.m3u8?t=IWwr_2Sc12jGn1ZPWJWXbFvdCbG7tBkKE3ZFUezaxDk&s=1750812614&e=14400&f=73590112&node=SZHSsRvkCzi+vj394EwIn1FNSsrLyGHN5gEj3UffCak=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="General",Blade Runner 2049 2017
+https://cdn-wtatahculkalrcev.orbitcache.com/engine/hls2/01/14718/rkh51io8sitm_,n,.urlset/index-v1-a1.m3u8?t=9YUFfuiOl8HsoYTAs2Vdc4mMzTch_-NhMverlv3roF4&s=1750812681&e=14400&f=73590154&node=eISAKDWRd0sgx/+XdP4Hazwt2f5jRKnKL0HD5mv5gRs=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7EqXQpRpDLJA09ufah6Vsr487WW.jpg" group-title="General",La mujer de las sombras 2025 
+https://cdn-ldd3nik2yl3ojjan.orbitcache.com/engine/hls2/01/14169/pag3sf5e6hik_,n,.urlset/index-v1-a1.m3u8?t=-LS0D6SNWxtbGYDGE8L-54eWb8nrM9brjyFcv2c21nE&s=1750812749&e=14400&f=70849490&node=Qk+AsUej9TIMAmZHaiOElMLMYCvonNmxQQZBEr2RcQc=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/02/sting-arana-asesina-65011-poster-185x278.jpg" group-title="General",Sting. Araña asesina 2024
+https://cdn-r8tciajiuxjrx3pr.orbitcache.com/engine/hls2/01/14706/e8kaklmkahe2_,n,.urlset/index-v1-a1.m3u8?t=bJAxDPO-oMy8TNjoOj67NccOYUX6tnnBserQEedpeo0&s=1750812818&e=14400&f=73533674&node=rnyAsHaLkRiZuBMOE+9Sy63U/hv1xsgp7D495xgI0LU=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wTlq1OKFekOR0ewNavniPK08M1M.jpg" group-title="General",Criatura Misteriosa 2020 
+https://cdn-vhfrcgzcntzyhsiv.orbitcache.com/engine/hls2-c/01/14698/nzcv4heuouka_,n,.urlset/index-v1-a1.m3u8?t=uHg7EFxrSMxDUPnLS1zKniaqQ7lhsZhQG61RUS25880&s=1750812910&e=14400&f=73492724&node=gbR2FVWUEnUExeqDx8emmWiNsGleSesjKKTykKt/rL8=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/06/distant-68291-poster-185x278.jpg" group-title="General",Larga Distancia 2024 
+https://cdn-yuqd9xktudja8zcj.orbitcache.com/engine/hls2/01/14678/fx699ff3piei_,n,.urlset/index-v1-a1.m3u8?t=-55omjoHBDsqfxgV-L4Jo_GFom2T8X9sAq-jgrrre5g&s=1750812972&e=14400&f=73393527&node=pI2T3nZbnS/mGxI9adFw4fyTnu5fEPDGaHDmyLOikzs=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nimnvsGwgJBPnsRrmdlIDi2Yhbn.jpg" group-title="General",Guerra de mutantes 2024
+https://cdn-e4srqqyuolvqfr5r.orbitcache.com/engine/hls2/01/14678/wobigekv7bhs_,n,.urlset/index-v1-a1.m3u8?t=Bo64hW-leO_r7pmu6xrJomZKhA4cusj25UfB-UandtA&s=1750813045&e=14400&f=73393539&node=Y0KHGfl9QQsG/hnJQy4YMlg5PipBN8Q9+7i/ywA/hFo=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/03/la-noche-eterna-66222-poster-185x278.jpg" group-title="General",La noche eterna 2024 
+https://cdn-wvutylqavhuksgin.orbitcache.com/engine/hls2/01/14718/misewizjh6ih_,n,.urlset/index-v1-a1.m3u8?t=BmB8MVJGmT8xrwNUJQ11Pumcphcd67vMd6CiDsTCGOQ&s=1750813340&e=14400&f=73590090&node=1GhxCm7MYtX6/1WycGGVzNpyt3yrgbtDSYHLJt0hCVQ=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
