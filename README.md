@@ -14,9 +14,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208170/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL HD
 http://netlevel.online:8080/ventas45R/JGPGV/501846
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BN2yDy1/1630560405514.jpg" group-title="General",UNITEL  SD
-http://netlevel.online:8080/ventas45R/JGPGV/501844
+http://tvlatino.club:2082/Peyo07AC/GrATtEvCwfBa/340010
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="General",UNITEL Cochabamba FULLHD
-http://tvpremiund.ddns.me:2082/live/Pedroarias/87HTfMZaKw4q/76492.m3u8
+http://zuiowy.net:8080/live/veotv426/LfGeNhFWSM/3293.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdQs7bf/Bolivision.png" group-title="General",BOLIVISION
 http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/131678
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEJ7PZPt6SAIsF1YzqXMxcWzWQpzSnJT7cw&s" group-title="General",PODER DE DIOS
@@ -26,7 +26,7 @@ https://rtp.noxun.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTKLnNTBtjhb64a-hY7OnezpCP0rMiuILb9R_hVdF9XqhdxsVRs4WmeQJ5o0W1rYHFNw&usqp=CAU" group-title="General",RED UNO
 http://netlevel.online:8080/ventas45R/JGPGV/501840
 #EXTINF:-1 tvg-logo="https://dtv.bo/wp-content/uploads/2023/07/cropped-LOGO-DTV.png" group-title="General",DTV
-http://tvlatino.club:2082/live/Peyo07AC/GrATtEvCwfBa/340036.m3u8
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVV9z2uLBmJv4UzM85_RGbnlYnO45T0NMZ7Q&s" group-title="General",GIGAVISION
 https://tv2.bitstreaming.net:3896/multi_web/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="General",PAT
@@ -247,25 +247,23 @@ http://tvlatino.club:2082/movie/llan99/A4qLTJtnbDGB/398579.mkv
 http://venuschiletv.lat:8880/movie/bayron01000/wmguR9bh4sWE/438102.mp4
 #EXTINF:-1 tvg-logo="https://gia.tv/images/m3u-default.png" group-title="General",Namidia 
 https://live-stream.iblups.com/video/29d1e82a114bcc6051c752fe15b31d2f863bf605.m3u8
-#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/06/first-shift-68373-poster-185x278.jpg" group-title="General",First Shift 2024 
-https://cdn-b4e9verlhstt86dx.orbitcache.com/engine/hls2-c/01/14718/zgvgb8z3tewg_,n,.urlset/index-v1-a1.m3u8?t=Ab2LbwrC9X0G5lGw1iKqlle6feHls5mAJwS2dK6mmlg&s=1750812188&e=14400&f=73590092&node=t+AsGec0tqyzimoTeyh//PLu+DKoSGpjzvcOJNJMnHA=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AfwIqD0QFkKYBHQao78INWcoPSn.jpg" group-title="General",Logan: Wolverine 2017
-https://cdn-k36lq9mwfsnekmyd.orbitcache.com/engine/hls2-c/01/14718/s1rfdyljxqpt_,n,.urlset/index-v1-a1.m3u8?t=Y6snQX_dvpfVWwupabYAlPkP_UvT-0PS2e9hPmI7n88&s=1750812441&e=14400&f=73590316&node=SZHSsRvkCzi+vj394EwIn1FNSsrLyGHN5gEj3UffCak=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aRnCzJL8spJkfoiuld78LKOabiD.jpg" group-title="General",Efecto paradoja 2024
-https://cdn-zozs0yofvurnsojd.orbitcache.com/engine/hls2-c/01/14718/lj19rvgaff7w_,n,.urlset/index-v1-a1.m3u8?t=BoxjQtCTb2r3LlFQQTm5um27IN4gNSwRTZ0Ix3-pwnQ&s=1750812542&e=14400&f=73590093&node=4VlVWhAmYngYlcARvmJAbCRyDIGR2OWIRuOGPr4lndE=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/409389.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vmw1FhbRFPDjkXevrhX6scxGJQO.jpg" group-title="General",Todo un parto 2010 
-https://cdn-0f49rzor22huapc5.orbitcache.com/engine/hls2/01/14718/g1tjpfdn1g1x_,n,.urlset/index-v1-a1.m3u8?t=IWwr_2Sc12jGn1ZPWJWXbFvdCbG7tBkKE3ZFUezaxDk&s=1750812614&e=14400&f=73590112&node=SZHSsRvkCzi+vj394EwIn1FNSsrLyGHN5gEj3UffCak=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/417877.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" group-title="General",Blade Runner 2049 2017
-https://cdn-wtatahculkalrcev.orbitcache.com/engine/hls2/01/14718/rkh51io8sitm_,n,.urlset/index-v1-a1.m3u8?t=9YUFfuiOl8HsoYTAs2Vdc4mMzTch_-NhMverlv3roF4&s=1750812681&e=14400&f=73590154&node=eISAKDWRd0sgx/+XdP4Hazwt2f5jRKnKL0HD5mv5gRs=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+http://zuiowy.net:8080/movie/veotv426/LfGeNhFWSM/169256.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7EqXQpRpDLJA09ufah6Vsr487WW.jpg" group-title="General",La mujer de las sombras 2025 
-https://cdn-ldd3nik2yl3ojjan.orbitcache.com/engine/hls2/01/14169/pag3sf5e6hik_,n,.urlset/index-v1-a1.m3u8?t=-LS0D6SNWxtbGYDGE8L-54eWb8nrM9brjyFcv2c21nE&s=1750812749&e=14400&f=70849490&node=Qk+AsUej9TIMAmZHaiOElMLMYCvonNmxQQZBEr2RcQc=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+http://zuiowy.net:8080/movie/veotv426/LfGeNhFWSM/169730.mp4
 #EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/02/sting-arana-asesina-65011-poster-185x278.jpg" group-title="General",Sting. Araña asesina 2024
-https://cdn-r8tciajiuxjrx3pr.orbitcache.com/engine/hls2/01/14706/e8kaklmkahe2_,n,.urlset/index-v1-a1.m3u8?t=bJAxDPO-oMy8TNjoOj67NccOYUX6tnnBserQEedpeo0&s=1750812818&e=14400&f=73533674&node=rnyAsHaLkRiZuBMOE+9Sy63U/hv1xsgp7D495xgI0LU=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/537810.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wTlq1OKFekOR0ewNavniPK08M1M.jpg" group-title="General",Criatura Misteriosa 2020 
-https://cdn-vhfrcgzcntzyhsiv.orbitcache.com/engine/hls2-c/01/14698/nzcv4heuouka_,n,.urlset/index-v1-a1.m3u8?t=uHg7EFxrSMxDUPnLS1zKniaqQ7lhsZhQG61RUS25880&s=1750812910&e=14400&f=73492724&node=gbR2FVWUEnUExeqDx8emmWiNsGleSesjKKTykKt/rL8=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
-#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/06/distant-68291-poster-185x278.jpg" group-title="General",Larga Distancia 2024 
-https://cdn-yuqd9xktudja8zcj.orbitcache.com/engine/hls2/01/14678/fx699ff3piei_,n,.urlset/index-v1-a1.m3u8?t=-55omjoHBDsqfxgV-L4Jo_GFom2T8X9sAq-jgrrre5g&s=1750812972&e=14400&f=73393527&node=pI2T3nZbnS/mGxI9adFw4fyTnu5fEPDGaHDmyLOikzs=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nimnvsGwgJBPnsRrmdlIDi2Yhbn.jpg" group-title="General",Guerra de mutantes 2024
-https://cdn-e4srqqyuolvqfr5r.orbitcache.com/engine/hls2/01/14678/wobigekv7bhs_,n,.urlset/index-v1-a1.m3u8?t=Bo64hW-leO_r7pmu6xrJomZKhA4cusj25UfB-UandtA&s=1750813045&e=14400&f=73393539&node=Y0KHGfl9QQsG/hnJQy4YMlg5PipBN8Q9+7i/ywA/hFo=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
-#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/03/la-noche-eterna-66222-poster-185x278.jpg" group-title="General",La noche eterna 2024 
-https://cdn-wvutylqavhuksgin.orbitcache.com/engine/hls2/01/14718/misewizjh6ih_,n,.urlset/index-v1-a1.m3u8?t=BmB8MVJGmT8xrwNUJQ11Pumcphcd67vMd6CiDsTCGOQ&s=1750813340&e=14400&f=73590090&node=1GhxCm7MYtX6/1WycGGVzNpyt3yrgbtDSYHLJt0hCVQ=&i=181.115&sp=2500&asn=6568&q=n&rq=dpMHLqML0BJxvRz2UDBslaSD7YTBaipxcgCN0HpQ
+http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/546559.mkv
+#EXTINF:-1 tvg-logo="https://pelisen1080p.com/wp-content/uploads/2025/06/distant-68291-poster-185x278.jpg" group-title="General",K. O. 2025
+http://venuschiletv.lat:8880/movie/bayron01000/wmguR9bh4sWE/437731.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nimnvsGwgJBPnsRrmdlIDi2Yhbn.jpg" group-title="General",Los nuevos mutantes 2024
+http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/373328.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gtwN9R6q0Ki97eUczLMlBzASOeM.jpg" group-title="General",Battle Angel: La última guerrera 2019 
+http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/443928.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aZvOkdo203bm1kpcY0A0Tn074ER.jpg" group-title="General",Watchmen: Los vigilantes 2009 
+http://tvlatino.club:2082/movie/Peyo07AC/GrATtEvCwfBa/371958.mkv
